@@ -1,0 +1,24 @@
+.table{
+    border: 2px solid black;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-evenly;
+    /* width: 100vw;
+    height:100vh */
+}
+
+.col{
+    width: 20%;
+}
+.col1data{
+    width: 100px;
+    height: 400px;
+    background-color: red;
+}
+
+
+.col2data{
+    height: 400px;
+    width: 100px;
+    background-color: pink;
+}
